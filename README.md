@@ -32,6 +32,8 @@ This is the REST API
 2) go to http://localhost:8000/docs
 
 
+Video Link
+https://youtu.be/IB7Eo5mA1r8
 
 
 
