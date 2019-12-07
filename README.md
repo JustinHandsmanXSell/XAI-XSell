@@ -6,6 +6,9 @@ https://app.swaggerhub.com/apis-docs/JustinHandsmanXSell/XSell/1.0.0
 install requirements.txt
 
 pip install -r requirements.txt
+
+or
+
 pip3 install -r requirements.txt
 
 Keras:
