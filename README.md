@@ -1,6 +1,6 @@
 # XAI-XSell
 
-# For the files, the final project is called XSell.zip
+### For the files, the final project is called Keras.zip, TestSpam.zip, apiSpam.zip
 All other files are for my learning and it shows what I was working on in terms of learning the different tools and tasks leading up to the final project.
 
 https://app.swaggerhub.com/apis-docs/JustinHandsmanXSell/XSell/1.0.0
